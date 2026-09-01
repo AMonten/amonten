@@ -11,6 +11,7 @@ at all, because the problem itself was worth solving.
 
 - 🔗 [Finance-API](https://github.com/AMonten/Finance-API) — Open-source FastAPI service for financial data (prices, ratios, news) across multiple providers.
 - 🔗 [fixed-income-lab](https://github.com/AMonten/fixed-income-lab) — Fixed-income analytics toolkit: pricing, yield curves, duration/DV01/convexity, and amortizing securities on a shared cash-flow engine.
+- 🔗 [agency-mbs-tracker](https://github.com/AMonten/agency-mbs-tracker) — Open-source tracker for agency MBS/CMO pool-factor (amortization) history from Ginnie Mae/Freddie Mac public disclosure data, looked up by ISIN or CUSIP.
 - 🔗 [ptp-watch](https://github.com/AMonten/ptp-watch) — Open, append-only registry aggregating public PTP classifications and IRC §1446(f) evidence from 14+ broker/custodian sources, with full source provenance.
 
 ## Self-Hosting & Infrastructure
