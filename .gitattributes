@@ -1,0 +1,3 @@
+# Normalize line endings to LF in the repo regardless of which side (Windows or
+# WSL) edits/commits — avoids phantom CRLF-only diffs.
+* text=auto eol=lf
